@@ -229,6 +229,6 @@ This project provides a practical introduction to **Deep Learning, Neural Networ
 
 ## 👨‍💻 Author
 
-**Your Name**
+**ANANYA PAIYA**
 
 If you found this project useful, consider giving the repository a ⭐.
